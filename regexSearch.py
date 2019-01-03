@@ -1,5 +1,5 @@
 #! python3
-# Program opens all .txt files in current directoy and searches for any line
+# Program opens all .txt files in current directory and searches for any line
 # that matches a user-supplied regular expression.
 
 import re, os
